@@ -1,0 +1,46 @@
+# 临时文件 / Temporary files
+*.tmp
+*.temp
+*.swp
+*.swo
+*~
+
+# 编译文件 / Compiled files
+*.o
+*.obj
+*.exe
+*.dll
+*.so
+*.dylib
+*.class
+*.pyc
+*.pyo
+__pycache__/
+
+# IDE和编辑器文件 / IDE and editor files
+.vscode/
+.idea/
+*.sublime-*
+.DS_Store
+Thumbs.db
+
+# 日志文件 / Log files
+*.log
+logs/
+
+# 依赖和包 / Dependencies and packages
+node_modules/
+vendor/
+venv/
+env/
+.env
+
+# 构建输出 / Build output
+build/
+dist/
+out/
+target/
+
+# 个人笔记草稿 / Personal draft notes
+drafts/
+private/
