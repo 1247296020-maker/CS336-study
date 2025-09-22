@@ -6,8 +6,6 @@ from collections import defaultdict
 from dataclasses import dataclass
 from typing import Dict, List, Tuple
 
-from Demos.getfilever import pairs
-
 
 class BPE:
     def __init__(self,max_vocab_size:int):
